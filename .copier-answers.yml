@@ -1,0 +1,16 @@
+# Changes herein will be handled by `copier update`.
+# Do not edit by hand; commit this file (it powers updates).
+_commit: 270daa2
+_src_path: /home/bdavis/code/projects/personal/templates/python-project-template
+author_email: bengineerdavis@gmail.com
+author_name: Ben Davis
+cli_name: redge
+copyright_year: '2026'
+description: 'Repositories as a package manager: declarative catalogue, update/upgrade/lock
+    split, safe one-way fast-forward, named groups, pluggable registry discovery.'
+license: FSL-1.1-MIT
+package_name: redge-cli
+project_name: redge
+project_slug: redge
+project_version: 0.0.1
+python_version: '3.12'

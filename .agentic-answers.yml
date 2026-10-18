@@ -1,0 +1,12 @@
+# Changes herein will be handled by `agentic-project-template update`.
+# Do not edit by hand; commit this file (it powers updates).
+_commit: 93f10df
+_src_path: /home/bdavis/code/projects/personal/templates/agentic-project-template
+description: 'Repositories as a package manager: declarative catalogue, update/upgrade/lock
+    split, safe one-way fast-forward, named groups, pluggable registry discovery.'
+extra_skills: []
+include_consult_llm: false
+include_git_ai: false
+mcp_servers: []
+project_name: redge
+task_prefix: redge
